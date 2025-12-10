@@ -42,3 +42,6 @@ Following the recommended analytics structure:
 
 * **Business Impact & Insights**
     This tool enables the HR team to monitor diversity goals effectively and allocate resources based on accurate departmental headcount data, reducing the time spent on manual Excel reporting by automating the visualization process.
+
+## 6. Screenshots / Demos
+Following are the screenshots of the dashboard:
