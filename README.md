@@ -46,6 +46,6 @@ Following the recommended analytics structure:
 ## 6. Screenshots / Demos
 Following are the screenshots of the dashboard:
 
-* **Home page -
-* **Details Page -
-* **Action page - 
+* **Home page - (https://github.com/Som-fool66/Power-BI---HR-Data-/blob/main/Home.png)
+* **Details Page - (https://github.com/Som-fool66/Power-BI---HR-Data-/blob/main/Details.png)
+* **Action page - (https://github.com/Som-fool66/Power-BI---HR-Data-/blob/main/Actions.png)
