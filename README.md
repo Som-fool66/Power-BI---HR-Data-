@@ -45,3 +45,7 @@ Following the recommended analytics structure:
 
 ## 6. Screenshots / Demos
 Following are the screenshots of the dashboard:
+
+* **Home page -
+* **Details Page -
+* **Action page - 
